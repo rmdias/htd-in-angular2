@@ -1,0 +1,1 @@
+#H-T-D in Angular 2 {{Component as Controller}}
